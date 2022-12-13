@@ -1,2 +1,21 @@
-# microbit
-microbit exploration - can/william/aidan
+Wiring: 
+
+
+
+List of materials
+
+
+
+Code/embedded code
+
+
+Video/images
+
+
+Snippets
+
+
+Resources
+
+
+
