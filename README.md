@@ -9,16 +9,21 @@ Microbit Integration Board
 USB to Micro USB Cable
 
 
-Code/embedded code
+Code
+
+[Microbit Song Code.zip](https://github.com/Frequenttt/microbit/files/10239980/Microbit.Song.Code.zip)
 
 
-Video/images
+Videos
 
 
-Snippets
 
 
 Resources
 
+YouTube
+Songs Used:
+Video Game Songs(Horizon by Pawel Blaszczak - Dying Light OST, Sweden by C418 - Minecraft Volume Alpha, Undertale - Megalovania, Menu A - Supercell)\
+Movies and TV Show Songs(Jurassic Park Theme Song by John Williams, The Imperial March by John Williams
 
 
