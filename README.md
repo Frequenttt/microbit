@@ -20,10 +20,9 @@ Videos
 
 
 Resources
-
 YouTube
 Songs Used:
-Video Game Songs(Horizon by Pawel Blaszczak - Dying Light OST, Sweden by C418 - Minecraft Volume Alpha, Undertale - Megalovania, Menu A - Supercell)\
-Movies and TV Show Songs(Jurassic Park Theme Song by John Williams, The Imperial March by John Williams
+Video Game Songs(Horizon by Pawel Blaszczak - Dying Light OST, Sweden by C418 - Minecraft Volume Alpha, Megalovania - Undertale, Menu A - Supercell)
+Movies and TV Show Songs(Jurassic Park Theme Song by John Williams, The Imperial March by John Williams, Pink Soldiers - Squid Game Original Soundtrack from The Netflix Series)
 
 
