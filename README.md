@@ -32,7 +32,9 @@ https://sd43bcca-my.sharepoint.com/:v:/r/personal/132-ckumustekin_sd43_bc_ca/Doc
 EXTRA ANIMATION: https://sd43bcca-my.sharepoint.com/:v:/r/personal/132-ckumustekin_sd43_bc_ca/Documents/IMG_9945.MOV?csf=1&web=1&e=b3ZLbn
 
 Resources:
-YouTube
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+https://micromaker.co.uk/innovation-lessons/
+Example Doc: https://github.com/otsop110/microbit-projects/ Youtube
 
 Songs Used:
 Video Game Songs(Horizon by Pawel Blaszczak - Dying Light OST, Sweden by C418 - Minecraft Volume Alpha, Undertale - Megalovania, Menu A - Supercell)\
